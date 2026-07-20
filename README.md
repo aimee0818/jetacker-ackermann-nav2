@@ -687,11 +687,17 @@ Implemented Features
 
 ### Gazebo Autonomous Navigation
 
-▶️ [Watch Gazebo Navigation Demo](docs/video1.webm)
+<p align="center">
+  <img src="docs/navigation1.gif" width="900">
+</p>
+
+---
 
 ### RViz Autonomous Navigation
 
-▶️ [Watch RViz Navigation Demo](docs/video2.webm)
+<p align="center">
+  <img src="docs/navigation2.gif" width="900">
+</p>
 
 ---
 
