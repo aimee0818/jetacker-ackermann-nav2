@@ -656,7 +656,11 @@ Implemented Features
 
 # 📷 Project Demo
 
-### Gazebo Simulation
+## Gazebo Simulation
+
+<p align="center">
+  <img src="docs/gazebo.png" width="900">
+</p>
 
 - Ackermann Vehicle
 - Indoor Environment
@@ -666,15 +670,28 @@ Implemented Features
 
 ---
 
-### RViz Navigation
+## RViz Navigation
+
+<p align="center">
+  <img src="docs/Rviz.png" width="900">
+</p>
 
 - Map
 - AMCL Localization
-- Global Path
-- Local Costmap
-- Goal Pose Navigation
+- Global Path Planning
+- Ackermann Vehicle Tracking
 
-*(RViz Screenshot Here)*
+---
+
+## 🎥 Navigation Demo
+
+### Gazebo Autonomous Navigation
+
+▶️ [Watch Gazebo Navigation Demo](docs/video1.webm)
+
+### RViz Autonomous Navigation
+
+▶️ [Watch RViz Navigation Demo](docs/video2.webm)
 
 ---
 
