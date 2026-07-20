@@ -664,8 +664,6 @@ Implemented Features
 - LiDAR Sensor
 - Nav2 Navigation
 
-*(Simulation Image Here)*
-
 ---
 
 ### RViz Navigation
