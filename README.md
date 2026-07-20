@@ -512,23 +512,33 @@ ros2 run jetacker_ackermann_control text_to_place
 # 📁 Package Structure
 
 ```text
-ros2_ws/src/
+JetAcker-Ackermann-Navigation/
 │
 ├── jetacker_ackermann_description/
-│   ├── urdf/
+│   ├── launch/
 │   ├── meshes/
-│   └── launch/
+│   ├── urdf/
+│   ├── package.xml
+│   ├── setup.py
+│   └── setup.cfg
 │
 ├── jetacker_ackermann_gazebo/
 │   ├── launch/
 │   ├── config/
-│   └── urdf/
+│   ├── urdf/
+│   ├── package.xml
+│   ├── setup.py
+│   └── setup.cfg
 │
 ├── jetacker_ackermann_control/
-│   ├── ackermann_controller.py
-│   ├── navigate_to_pose_cli.py
-│   ├── navigate_to_place.py
-│   └── text_to_place.py
+│   ├── jetacker_ackermann_control/
+│   │   ├── ackermann_controller.py
+│   │   ├── navigate_to_pose_cli.py
+│   │   ├── navigate_to_place.py
+│   │   └── text_to_place.py
+│   ├── package.xml
+│   ├── setup.py
+│   └── setup.cfg
 │
 └── robot_gazebo/
     ├── launch/
